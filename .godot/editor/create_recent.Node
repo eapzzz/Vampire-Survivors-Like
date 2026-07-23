@@ -1,3 +1,8 @@
+Area2D
+Node2D
+CanvasLayer
+CanvasGroup
+Camera2D
 CollisionShape2D
 CharacterBody2D
 StaticBody2D
