@@ -2,3 +2,5 @@ res://characters/happy_boo/happy_boo.tscn
 res://player.tscn
 res://survivors_game.tscn
 res://pine_tree.tscn
+res://mob.gd
+res://mob.tscn
