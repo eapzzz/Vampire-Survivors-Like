@@ -2,3 +2,5 @@ res://bullet.tscn
 res://bullet.gd
 res://gun.gd
 res://gun.tscn
+res://mob.tscn
+res://mob.gd
