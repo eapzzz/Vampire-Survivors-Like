@@ -1,14 +1,14 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1784846977
+::res://::1784892919
 default_bus_layout.tres::AudioBusLayout::6564268947468103023::1771685366::0::1::::<><><>0<>0<><>::
 gun.gd::GDScript::3489142608771703023::1784846907::0::1::::<>Area2D<><>0<>0<><>::
 gun.tscn::PackedScene::8625515866347305280::1784846971::0::1::::<><><>0<>0<><>::uid://bpyfw0mh6bsnv::::res://gun.gd<>uid://coon1w77o334i::::res://pistol/pistol.png
 icon.png::CompressedTexture2D::15047351210411190::1771685366::1784842862::1::::<><><>0<>0<>1b715dbefff322edf369d96dc8dd5e44<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
 mob.gd::GDScript::8980765933725370575::1784846037::0::1::::<>CharacterBody2D<><>0<>0<><>::
-mob.tscn::PackedScene::1744350205456824847::1784846933::0::1::::<><><>0<>0<><>::uid://ogik4s70pgwl::::res://characters/slime/slime.tscn<>uid://d07l5xwryn2cx::::res://mob.gd
+mob.tscn::PackedScene::1744350205456824847::1784847133::0::1::::<><><>0<>0<><>::uid://ogik4s70pgwl::::res://characters/slime/slime.tscn<>uid://d07l5xwryn2cx::::res://mob.gd
 pine_tree.tscn::PackedScene::8341164372918984475::1784846021::0::1::::<><><>0<>0<><>::uid://dk5b8a84a6n2h::::res://characters/ground_shadow.png<>uid://bql1cc345qv7d::::res://trees/pine_tree.png
 player.gd::GDScript::1700623032726953666::1784845999::0::1::::<>CharacterBody2D<><>0<>0<><>::
-player.tscn::PackedScene::6636363802798909755::1784846037::0::1::::<><><>0<>0<><>::uid://pbmyh1qru7p::::res://characters/happy_boo/happy_boo.tscn<>uid://yh2ao5or56lq::::res://player.gd
+player.tscn::PackedScene::6636363802798909755::1784847003::0::1::::<><><>0<>0<><>::uid://pbmyh1qru7p::::res://characters/happy_boo/happy_boo.tscn<>uid://yh2ao5or56lq::::res://player.gd<>uid://du5i8r7jdycua::::res://gun.tscn
 survivors_game.tscn::PackedScene::1308940475149137596::1784846037::0::1::::<><><>0<>0<><>::uid://c1sx7bic4uhdj::::res://player.tscn<>uid://y38gte5o0xf8::::res://mob.tscn<>uid://dq3r015sr1uql::::res://pine_tree.tscn
 ::res://addons/::1784758693
 ::res://addons/colorpicker_presets/::1771685366
